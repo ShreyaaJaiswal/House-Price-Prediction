@@ -91,16 +91,3 @@ score_2 = metrics.mean_absolute_error(Y_test, test_data_prediction)
 
 print("R squared error : ", score_1)
 print("Mean Absolute Error : ", score_2)
-
-
-
-
-
-
-
-
-
-
-
-
-
